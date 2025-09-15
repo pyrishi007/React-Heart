@@ -56,3 +56,10 @@ git branch -d branch-name
 
 # 📥 Clone a repository
 git clone https://github.com/USERNAME/REPO_NAME.git
+
+
+# To Start the project 
+npm install
+
+# Run the project 
+npm start 
