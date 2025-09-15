@@ -1,10 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import App from "./CounterApp/CounterApp";
+import "./style.css"
 
 const MainAppComponent = () => {
   return (
     <>
-      <h1>Hello world</h1>
+      <App/>
     </>
   );
 };
