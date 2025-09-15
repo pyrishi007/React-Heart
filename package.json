@@ -1,0 +1,24 @@
+{
+  "name": "react-heart",
+  "version": "1.0.0",
+  "description": "\"This repo will have all in-Depth understanding of the React - Why the React behave, like it Behave\"",
+  "scripts": {
+    "start": "parcel ./src/index.html --port 3000",
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyrishi007/React-Heart.git"
+  },
+  "author": "Rohit Gorain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyrishi007/React-Heart/issues"
+  },
+  "homepage": "https://github.com/pyrishi007/React-Heart#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
